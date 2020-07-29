@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello There!
 
-<!--
-**cksidharthan/cksidharthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Sidharthan, a guy with a passion to build software that will help the betterment of the world. To be precise, all my life I’ve been interested in computers and programming and when the time came to work as a developer at BNY Mellon, I grabbed it and started my career journey. Throughout my work, I’ve built some fascinating applications and also explored a lot of tech stuff. My professional career and my interest in Formula 1 helped me to realize my interest in Analytics which triggered me to pursue my masters degree in Business Analytics.
 
-Here are some ideas to get you started:
+I’m a big fan of open-source projects and a Linux fanatic. My main hobby is exploring new technologies and sharing my knowledge with others through blogs and other media. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Machine Learning, Data Visualization, Data Analytics, Full Stack Application Development
+
+### Currently Open to work.
+If you are interested in my profile, do hit me with a message 😃
+
+## Website Link 
+https://cksidharthan.github.io
+
+## [Download CV](https://cksidharthan.github.io/assets/Sidharthan_Chandrasekaran_Kamaraj_CV.pdf)
