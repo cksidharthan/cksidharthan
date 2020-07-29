@@ -1,4 +1,4 @@
-Hello There!
+# Hello There!
 
 I’m Sidharthan, a guy with a passion to build software that will help the betterment of the world. To be precise, all my life I’ve been interested in computers and programming and when the time came to work as a developer at BNY Mellon, I grabbed it and started my career journey. Throughout my work, I’ve built some fascinating applications and also explored a lot of tech stuff. My professional career and my interest in Formula 1 helped me to realize my interest in Analytics which triggered me to pursue my masters degree in Business Analytics.
 
