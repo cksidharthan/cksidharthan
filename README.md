@@ -4,13 +4,8 @@ I’m Sidharthan, a guy with a passion to build software that will help the bett
 
 I’m a big fan of open-source projects and a Linux fanatic. My main hobby is exploring new technologies and sharing my knowledge with others through blogs and other media. 
 
-## Interests
-Machine Learning, Data Visualization, Data Analytics, Full Stack Application Development
-
 ### Currently Open to work.
 If you are interested in my profile, do hit me with a message 😃
 
 ## Website Link 
 https://cksidharthan.github.io
-
-## [Download CV](https://cksidharthan.github.io/assets/Sidharthan_Chandrasekaran_Kamaraj_CV.pdf)
