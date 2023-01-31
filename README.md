@@ -1,8 +1,14 @@
 # Hello There!
 
-I’m Sidharthan, yet another Software Developer trying to learn new things everyday :)
+I’m Sidharthan, yet another Software Engineer trying to learn new things everyday :)
 
-To be precise, all my life I’ve been interested in computers and programming and when the time came to work as a developer at BNY Mellon, I grabbed it and started my professional career as a Developer. Over the years of my professional career, I've worked on developing a lot of applications in different domains which helped me to upskill myself on the programming best practices. I've been gifted to be mentored by Senior Engineers who helped me build my progrmamming knowledge. I have a Masters degree in Business Analytics that I studied to explore the area of Business and Data Analytics. I returned back to work as a Developer at NGINX to continue my Developer career. I'm currently working in Reynen Court as a Software Engineer.
+Mainly working on the backend side with Go, Java and Python. 
+
+Latest things I have been working on 
+- [go-bybit](https://github.com/cksidharthan/go-bybit) -> a golang client for bybit api
+- [alpaca-trade-api-go](https://github.com/alpacahq/alpaca-trade-api-go) -> Contributed to adding some api client implementations
+
+![Sidharthan's Github status](https://github-readme-stats.vercel.app/api?username=cksidharthan&count_private=true&show_icons=true)
 
 ## Website Link 
 https://cksidharthan.github.io
