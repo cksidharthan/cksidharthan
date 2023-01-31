@@ -2,10 +2,12 @@
 
 I’m Sidharthan, yet another Software Engineer trying to learn new things everyday :)
 
-Mainly working on the backend side with Go, Java and Python. 
+👨‍💻 Mainly working on the backend side with Go, Java and Python.
 
-Latest things I have been working on 
+**🚀 Latest things I have been working on**
+
 - [go-bybit](https://github.com/cksidharthan/go-bybit) -> a golang client for bybit api
+
 - [alpaca-trade-api-go](https://github.com/alpacahq/alpaca-trade-api-go) -> Contributed to adding some api client implementations
 
 ![Sidharthan's Github status](https://github-readme-stats.vercel.app/api?username=cksidharthan&count_private=true&show_icons=true)
